@@ -1,3 +1,4 @@
+
 # Infrastructure code for "Caching Cluster Architecture"
 
 This repository contains infrastructure as Terraform configurations which were automatically generated from blueprint created using [cloudcraft.co](https://cloudcraft.co/app).
